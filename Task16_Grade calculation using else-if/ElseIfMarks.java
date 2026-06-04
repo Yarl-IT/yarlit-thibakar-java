@@ -10,7 +10,7 @@ class ElseIfMarks {
 			System.out.println("Grade : C");
 		} else if ((marks >= 35) && (marks <= 54)){
 			System.out.println("Grade : S");
-		} else if ((marks >= 0) && (marks <=44)){
+		} else if ((marks >= 0) && (marks <=34)){
 			System.out.println("Grade : F");
 		} else {
 			System.out.println("Invalid marks! Please enter marks between 0 to 100.");
