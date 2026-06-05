@@ -11,5 +11,14 @@ class array_ex1{
 		y[6]=70;
 		
 		System.out.println(y[0]);
+<<<<<<< Updated upstream
+=======
+		System.out.println(y[1]);
+		System.out.println(y[2]);
+		System.out.println(y[3]);
+		System.out.println(y[4]);
+		System.out.println(y[5]);
+		System.out.println(y[6]);
+>>>>>>> Stashed changes
 	}
 }
